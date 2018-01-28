@@ -1,0 +1,31 @@
+<resources>
+    <string name="pg_sdk_version">4.4.6</string>
+    <string name="pg_adv_channel">43</string>
+    <string name="pg_url">http://sdk-andorid.pkid.pocketgamesol.com:8091/</string>
+	<string name="pg_test_url">http://sdk-test.changic.net.cn:8191/</string>
+    <string name="pg_app_id">10085</string>
+    <string name="pg_app_key">4cd5d5bb0fb84fa38f70ec141cd7e574</string>
+	<string name="pg_facebook_login_id">1129581580473410</string>
+	<string name="pg_google_server_client_id">carbon-octane-129206@appspot.gserviceaccount.com</string>
+    <string name="pg_appsflyer_dev_key">VdqvxTWzVDC9J2JjUXatWM</string>
+    <string name="pg_charboost_appid" />
+    <string name="pg_charboost_app_signature" />
+    <string name="pg_eway_appid" />
+    <string name="pg_mobvista_sdk_appid" />
+    <string name="pg_admob_conversion_id"/>
+    <string name="pg_admob_value"/>
+    <string name="pg_fraudect_channel_id"/>
+    <string name="pg_fraudect_app_key"/>
+    <string name="pg_kakao_key">0</string>
+
+	<string name="pg_language">id</string>
+	<string name="pg_logo">P</string>
+	<string name="pg_sdk_type">2</string>
+	<string name="pg_level_points"></string>
+
+	<string name="pg_version_code">180</string>
+	<string name="pg_version_name">18.0.0</string>
+	<string name="pg_game_name">Pokemon 3DS</string>
+	<string name="pg_package_name">com.monsterpvp.ly</string>
+	<string name="pg_login_method">{"main":"facebook","bottom":["login","register"]}</string>
+</resources>
